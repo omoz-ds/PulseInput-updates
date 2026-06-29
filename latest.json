@@ -1,5 +1,5 @@
 {
-  "version": "1.4.10",
-  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.10/PulseInput_Setup.exe",
-  "notes": "## PulseInput v1.4.10\n\n- ci: trigger build with 30s sleep fix\n- ci: replace HTTP asset-check with simple 30s sleep (private repo fix)\n- chore: bump version to 1.4.10 [skip ci]"
+  "version": "1.4.11",
+  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.11/PulseInput_Setup.exe",
+  "notes": "## PulseInput v1.4.11\n\n- ci: trigger build v1.4.11 with token auth fix\n- ci: reset BuildConfig.cs before bump-commit to avoid workflows permission error\n- ci: inject DOWNLOAD_TOKEN into build via MSBuild + token substitution in BuildConfig.cs\n- feat: embed DOWNLOAD_TOKEN for private release auth\n- chore: bump version to 1.4.11 [skip ci]"
 }
