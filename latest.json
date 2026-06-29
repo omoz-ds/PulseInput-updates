@@ -1,5 +1,5 @@
 {
-  "version": "1.4.12",
-  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.12/PulseInput_Setup.exe",
-  "notes": "## PulseInput v1.4.12\n\n- ci: trigger build v1.4.12 — token now correctly embedded before publish\n- fix: move BuildConfig.cs reset to AFTER publish+installer, before bump commit\n- chore: bump version to 1.4.12 [skip ci]"
+  "version": "1.4.13",
+  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.13/PulseInput_Setup.exe",
+  "notes": "## PulseInput v1.4.13\n\n- feat: increase download timeout to 15min for slower connections\n- chore: bump version to 1.4.13 [skip ci]"
 }
