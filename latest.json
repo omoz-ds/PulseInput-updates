@@ -1,5 +1,5 @@
 {
-  "version": "1.4.13",
-  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.13/PulseInput_Setup.exe",
-  "notes": "## PulseInput v1.4.13\n\n- feat: increase download timeout to 15min for slower connections\n- chore: bump version to 1.4.13 [skip ci]"
+  "version": "1.4.14",
+  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.14/PulseInput_Setup.exe",
+  "notes": "## PulseInput v1.4.14\n\n- test: trigger build v1.4.14 — auto-update end-to-end test\n- chore: bump version to 1.4.14 [skip ci]"
 }
