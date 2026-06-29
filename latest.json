@@ -1,5 +1,5 @@
 {
-  "version": "1.4.7",
-  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.7/PulseInput_Setup.exe",
-  "notes": "## PulseInput v1.4.7\n\n- fix: remove null bytes from App.xaml.cs\n- ci: trigger rebuild\n- ci: trigger rebuild with PAT fix\n- ci: use UPDATES_REPO_PAT for PulseInput-updates manifest push\n- ci: trigger rebuild with fixed UpdateBanner.xaml"
+  "version": "1.4.8",
+  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.8/PulseInput_Setup.exe",
+  "notes": "## PulseInput v1.4.8\n\n- test: trigger build to verify full update pipeline\n- chore: bump version to 1.4.8 [skip ci]\n- fix: remove null bytes from App.xaml.cs\n- ci: trigger rebuild\n- ci: trigger rebuild with PAT fix\n- ci: use UPDATES_REPO_PAT for PulseInput-updates manifest push\n- ci: trigger rebuild with fixed UpdateBanner.xaml"
 }
